@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "Carpa Andina 2P",
+    "precio": 189900,
+    "categoría": "Campamento",
+    "imagen": "https://images.unsplash.com/photo-1478131143081-80f7f84ca84d?auto=format&fit=crop&w=1200&q=85",
+    "descripción": "Tu refugio confiable para dos. Liviana, resistente al viento y lista para acompañarte desde una escapada de fin de semana hasta una travesía de varios días."
+  },
+  {
+    "id": 2,
+    "nombre": "Mochila Horizonte 45L",
+    "precio": 124500,
+    "categoría": "Mochilas",
+    "imagen": "https://images.unsplash.com/photo-1622260614153-03223fb72052?auto=format&fit=crop&w=1200&q=85",
+    "descripción": "Espacio inteligente para llevar lo esencial y un poco más. Su espalda ventilada y correas anatómicas hacen que cada kilómetro se sienta más ligero."
+  },
+  {
+    "id": 3,
+    "nombre": "Bolsa de dormir Sur -5°",
+    "precio": 97800,
+    "categoría": "Descanso",
+    "imagen": "https://images.unsplash.com/photo-1478827387698-1527781a4887?auto=format&fit=crop&w=1200&q=85",
+    "descripción": "Abrigo compacto para noches frescas bajo las estrellas. Aislación térmica eficiente, interior suave y compresión fácil para ganar lugar en la mochila."
+  },
+  {
+    "id": 4,
+    "nombre": "Linterna Faro recargable",
+    "precio": 38900,
+    "categoría": "Accesorios",
+    "imagen": "https://images.unsplash.com/photo-1504851149312-7a075b496cc7?auto=format&fit=crop&w=1200&q=85",
+    "descripción": "Luz cálida y potente para el campamento y el sendero. Recargable por USB-C, con varios modos de iluminación y una batería pensada para durar."
+  },
+  {
+    "id": 5,
+    "nombre": "Termo Cumbre 1L",
+    "precio": 42900,
+    "categoría": "Hidratación",
+    "imagen": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=1200&q=85",
+    "descripción": "Acero inoxidable de doble pared que mantiene tu bebida a la temperatura ideal. Resistente, cómodo de llevar y preparado para acompañar cualquier ruta."
+  },
+  {
+    "id": 6,
+    "nombre": "Bastones Travesía Carbono",
+    "precio": 76500,
+    "categoría": "Trekking",
+    "imagen": "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1200&q=85",
+    "descripción": "Estabilidad y confianza para terrenos cambiantes. Ajustables, livianos y con empuñadura ergonómica para sumar apoyo en cada subida y descenso."
+  }
+]
